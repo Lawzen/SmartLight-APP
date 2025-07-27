@@ -42,3 +42,7 @@ npm run dev
 
 Nécessite Instruction Set DP sur le device.
 Utilisation de l'API Tuya
+---
+## 📧 Contact
+Mail - [davidlumu2@gmail.com](mailto:davidlumu2@gmail.com)
+GitHub: [@Lawzen](https://github.com/Lawzen)

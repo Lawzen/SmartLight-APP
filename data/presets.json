@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Chaude",
+    "icon": "Sun",
+    "color": "blue",
+    "brightness": 80,
+    "hexColor": "#FFD700"
+  },
+  {
+    "id": "2",
+    "name": "Froide",
+    "icon": "Moon",
+    "color": "blue",
+    "brightness": 70,
+    "hexColor": "#00BFFF"
+  },
+  {
+    "id": "3",
+    "name": "Relax",
+    "icon": "Candle",
+    "color": "blue",
+    "brightness": 50,
+    "hexColor": "#9370DB"
+  }
+]

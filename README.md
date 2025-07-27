@@ -39,3 +39,6 @@ git clone https://github.com/Lawzen/SmartLight-APP.git
 cd SmartLight-APP
 npm install
 npm run dev
+
+Nécessite Instruction Set DP sur le device.
+Utilisation de l'API Tuya

@@ -35,7 +35,7 @@ Application **Web** & **PWA** permettant de contrôler ton **ampoule connectée 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/Lawzen/SmartLight-APP
+git clone https://github.com/Lawzen/SmartLight-APP.git
 cd SmartLight-APP
 npm install
 npm run dev

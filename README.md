@@ -1,5 +1,5 @@
 # 💡 SmartLight-APP
-Application **Web** & **PWA** permettant de contrôler ton **ampoule connectée LSC Smart Connect**.
+Application **Web** & **PWA** permettant de contrôler ton **ampoule connectée LSC Smart Connect** avec TUYA API.
 
 ---
 
